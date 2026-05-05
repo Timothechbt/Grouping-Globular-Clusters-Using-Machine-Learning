@@ -1,0 +1,3 @@
+Globular[[:space:]]Clusters[[:space:]]Algorithms.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+**/.ipynb_checkpoints/* filter=lfs diff=lfs merge=lfs -text
